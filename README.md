@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
+<a href="https://u8views.com/github/mhnap"><img src="https://u8views.com/api/v1/github/profiles/17296656/views/day-week-month-total-count.svg"></a>
 
-[![Mykhailo Hnap profile views](https://u8views.com/api/v1/github/profiles/17296656/views/day-week-month-total-count.svg)](https://u8views.com/github/mhnap)
+<!--
 
 **mhnap/mhnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
